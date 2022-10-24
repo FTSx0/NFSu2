@@ -1,0 +1,165 @@
+@charset "windows-1251";
+
+ Body{
+ 	  scrollbar-face-color :#000000;
+      scrollbar-highlight-color : #999999;
+      scrollbar-shadow-color :#000000;
+      scrollbar-3dlight-color : #000000;
+      scrollbar-arrow-color : #ffffff;
+      scrollbar-track-color : #666666;
+      scrollbar-darkshadow-color : #999999;
+
+       margin-top: 0px;
+
+       margin-right: 0px;
+
+       margin-bottom: 0px;
+
+       margin-left: 0px;
+
+       padding-top: 0px;
+
+       padding-right: 0px;
+
+       padding-bottom:0px;
+
+       padding-left: 0px;
+
+      }
+
+ P {
+
+	text-align : justify;
+
+	padding-left : 0;
+
+	padding-bottom : 0;
+
+	padding-right : 0;
+
+	padding-top : 0;
+
+	margin : 0;
+
+	text-indent : 20;
+
+ }
+
+A.orange{text-decoration:none;color:#CC6600;font-size:12px;font-family:tahoma}
+A.orange:hover{color:#CC6600;text-decoration: underline;}
+
+A.white{text-decoration:none;color:#dddddd;font-size:11px;font-family:tahoma}
+A.white:hover{color:#FFFFFF;}
+
+A.grey{text-decoration:none;color:#999999;font-size:11px;font-family:tahoma}
+A.grey:hover{color:#dddddd;}
+
+A.menu{text-decoration:none;color:#000000;font-size:11px;font-family:tahoma;}
+A.menu:hover {color:#787878;}
+
+A.small{text-decoration:yes;color:#dddddd;font-size:7pt;font-family:tahoma}
+A.small:hover {color:#ffffff;text-decoration:yes}
+
+
+TD{
+	font-family:tahoma;
+	font-size:11px;
+}
+
+
+TD.white{
+	font-family:tahoma;
+	font-size:11px;
+	color: #dddddd;
+}
+
+TD.grey{
+	font-family:tahoma;
+	font-size:11px;
+	color: #999999;
+}
+
+TD.bottom{
+	font-family:tahoma;
+	font-size:10px;
+	color: #999999;
+}
+
+TD.black{
+	font-family:tahoma;
+	font-size:11px;
+	color: #000000;
+}
+
+   .news{font-family:tahoma; font-size:8pt;color:#bbbbbb;background-color:#000000;padding-top:0px} 
+
+   .news2{
+	font-family:tahoma;
+	font-size:11px;
+	background-color: #E4E9FA;
+	padding-top:0px
+}
+   .news3{
+	font-family:tahoma;
+	font-size:11px;
+	background-color: #526F9A;
+	padding-top:0px;
+	color : White;
+}
+   .news4{font-family:tahoma; font-size:10pt;background-color:#525355;padding-top:0px;}
+   .news5{
+	font-family:tahoma;
+	font-size:11px;
+	background-color: #D2D9EC;
+	padding-top:0px
+}
+
+INPUT {
+	FONT-FAMILY: Tahoma, Arial
+}
+.stl3 {
+	BORDER-RIGHT: #ffffff 2px solid; BORDER-TOP: #646464 2px solid; FONT-WEIGHT: normal; FONT-SIZE: 8pt; BORDER-LEFT: #646464 2px solid; BORDER-BOTTOM: #ffffff 2px solid; BACKGROUND-COLOR: #ffffff
+}
+.stl4 {
+	BORDER-RIGHT: #000000 1px solid; 
+	BORDER-TOP: #000000 1px solid; 
+	BORDER-LEFT: #000000 1px solid; 
+	BORDER-BOTTOM: #000000 1px solid; 
+	FONT-WEIGHT: normal; 
+	FONT-SIZE: 8pt; 
+	BACKGROUND-COLOR: #ffffff
+}
+
+
+.stl5 {
+	font-size:8pt;
+	font-family:verdana;
+	border-width:1px;
+	border-style:solid;
+	border-color:#D4D2D2;
+	background-color:#2F4464;
+	color:#D4D2D2;
+	cursor: hand;
+}
+
+/*
+     FILE ARCHIVED ON 05:12:27 Jan 13, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:03:03 Oct 24, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1982.667
+  exclusion.robots: 0.078
+  exclusion.robots.policy: 0.072
+  cdx.remote: 0.057
+  esindex: 0.009
+  LoadShardBlock: 174.877 (3)
+  PetaboxLoader3.datanode: 322.798 (5)
+  CDXLines.iter: 24.792 (3)
+  load_resource: 298.052 (2)
+  PetaboxLoader3.resolve: 119.487 (2)
+*/
